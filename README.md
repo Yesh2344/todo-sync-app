@@ -51,4 +51,34 @@ A cross-platform To-Do application with a Python FastAPI backend and a planned i
 ---
 
 ### Planned Features for Mobile App
--
+- Display tasks fetched from the backend.
+- Add new tasks with a simple form.
+- Mark tasks as completed.
+- Update and delete tasks.
+  
+---
+
+## Project Structure
+todo-sync-app/ │ ├── backend/ │ ├── main.py # FastAPI server │ └── models.py # Task model │ └── frontend/ ├── flutter/ # Planned Flutter app └── react-native/ # Optional React Native implementation
+
+---
+
+## Contributing
+We welcome contributions! Here's how you can get involved:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+- **Email**: yeswanthsoma83@example.com
+- **GitHub**: [your-username](https://github.com/yesh2344)
