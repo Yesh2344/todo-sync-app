@@ -86,4 +86,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 ## Copyrights
 
-@Yeswanth Soma 
+@Yeswanth Soma All Copyrights Reserved
