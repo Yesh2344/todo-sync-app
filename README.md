@@ -85,3 +85,5 @@ If you have any questions or suggestions, feel free to reach out:
 - **GitHub**: [yesh2344](https://github.com/yesh2344)
 
 ## Copyrights
+
+@Yeswanth Soma 
