@@ -34,7 +34,7 @@ A cross-platform To-Do application with a Python FastAPI backend and a planned i
 ### Setting Up the Backend
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todo-sync-app.git
+    git clone https://github.com/yesh/todo-sync-app.git
     cd todo-sync-app
     ```
 2. Install dependencies:
