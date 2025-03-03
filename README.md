@@ -63,7 +63,8 @@ todo-sync-app/ │
 ├── backend/ │ 
 ├── main.py # FastAPI server 
 │ └── models.py # Task model 
-│ └── frontend/ ├── flutter/ # Planned Flutter app └── react-native/ # Optional React Native implementation
+│ └── frontend/ 
+├── flutter/ # Planned Flutter app └── react-native/ # Optional React Native implementation
 
 
 ---
