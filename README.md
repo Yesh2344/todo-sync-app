@@ -1,5 +1,3 @@
-# todo-sync-app
-
 # To-Do Sync App
 
 A cross-platform To-Do application with a Python FastAPI backend and a planned iOS/Android frontend. This project allows users to create, update, delete, and sync tasks across devices.
